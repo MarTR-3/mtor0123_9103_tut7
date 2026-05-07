@@ -1,5 +1,5 @@
-## Creative Coding – Quiz 8
-*Reinterpreting Marilyn Monroe (1967) by Andy Warhol* 
+# Creative Coding – Quiz 8
+### *Reinterpreting Marilyn Monroe (1967) by Andy Warhol* 
 
 <br>
 
